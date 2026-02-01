@@ -81,7 +81,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/trinabh12/trinabh12/output/snake.svg" alt="Snake animation" />
-
-###
