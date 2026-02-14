@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://cdn.discordapp.com/attachments/1446880969087778959/1467398759842578573/hello-removebg-preview.png?ex=69803d17&is=697eeb97&hm=91a2f3d8ce8a35019cf83c6576f2aadb8fc36bd3992153caea2f1e2ba6b17df4&"  />
+  <img height="150" src="https://media.tenor.com/soXZkSzdkmIAAAAM/hello-shy.gif"  />
 </div>
 
 ###
