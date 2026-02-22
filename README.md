@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.citypng.com/photo/29030/waving-emoji-hand-hello-icon-png"  />
+  <img height="150" src="https://iconscout.com/3d-icons/waving-hand-emoji"  />
 </div>
 
 ###
