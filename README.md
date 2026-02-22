@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.clipartmax.com/middle/m2i8H7b1d3d3K9d3_emoji-blushing-face-smile-emoji-no-background/"  />
+  <img height="150" src="https://www.citypng.com/photo/29030/waving-emoji-hand-hello-icon-png"  />
 </div>
 
 ###
