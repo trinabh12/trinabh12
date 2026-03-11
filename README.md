@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Trinabh from India<br><br>- 🔭 I’m working as an Intern<br>- 📚 I'm currently learning machine learning<br>- ⚡ In my free time I like to research about new advancements in tech</p>
+<p align="left">I'm Trinabh Mitra<br><br>- 🔭 I’m working as an Intern<br>- 📚 I'm currently learning machine learning<br>- ⚡ In my free time I like to research about new advancements in tech</p>
 
 ###
 
