@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Trinabh 👋</h1>
-  <p><b>Machine Learning | Healthcare AI | Applied Research</b></p>
+  <p><b>Machine Learning | Applied Research</b></p>
 </div>
 
 <div align="center">
