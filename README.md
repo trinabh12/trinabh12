@@ -40,7 +40,7 @@ My focus lies in working with structured and unstructured data, designing reliab
 ## 📈 Looking For
 
 - Opportunities in **applied ML research**
-- Work in **healthcare AI, medical imaging, or computational biology**
+- Work in **Agentic AI, Computer vision, or computational biology**
 - Collaborations on projects involving **real-world datasets and impact-driven problems**
 
 ---
